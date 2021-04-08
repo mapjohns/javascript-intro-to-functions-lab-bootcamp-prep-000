@@ -31,3 +31,5 @@ function sayHiToGrandma(string) {
     }
 }
 
+sayHiToGrandma("yo")
+
