@@ -11,3 +11,7 @@ function logShout(string) {
   return console.log(newvar)
 }
 
+function logWhisper(string) {
+  let newvar = string.toLowerCase()
+  return console.log(newvar)
+}
