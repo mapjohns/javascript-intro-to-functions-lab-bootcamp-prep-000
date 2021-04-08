@@ -1,1 +1,3 @@
-function sayHiToGrandma()
+function shout(string){
+  return string.toUpperCase()
+}
