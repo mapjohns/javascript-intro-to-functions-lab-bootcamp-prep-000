@@ -31,5 +31,5 @@ function sayHiToGrandma(string) {
     }
 }
 
-sayHiToGrandma("yo")
+console.log(sayHiToGrandma("yo"))
 
